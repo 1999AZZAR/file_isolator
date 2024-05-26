@@ -37,7 +37,7 @@ Sebelum menjalankan aplikasi ini, pastikan Anda telah menginstal:
    Buka terminal atau command prompt di komputer Anda.
 
 2. **Navigasi ke Direktori Proyek**
-   Pindah ke direktori tempat file `duplicate_file_isolator.py` berada. Gunakan perintah `cd` untuk berpindah direktori. Misalnya:
+   Pindah ke direktori tempat file `file_isolator.py` berada. Gunakan perintah `cd` untuk berpindah direktori. Misalnya:
    ```bash
    cd path/to/directory
    ```
